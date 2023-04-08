@@ -1,0 +1,1 @@
+// wap func returning a struct
