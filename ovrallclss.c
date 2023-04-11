@@ -1,0 +1,8 @@
+/*structure
+adt
+mem allocation and prog
+array of struct
+pointer to struct
+gllobal ptr
+fn returning array of struct
+define mem allocation of sturct*/
